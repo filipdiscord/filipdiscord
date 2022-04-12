@@ -1,7 +1,7 @@
 module.exports = {
         TOKEN: 'OTU4ODUwNTQ3MTA3MTM1NDg5.YkTVKQ.aX3crPbQwnZuNtAYxENBDOGOLgM', //write your discord bot token
         px: '!',
-        playing: 'Filip Sadzak',
+        playing: 'Fićo Music',
 
     opt: {
         DJ: {
